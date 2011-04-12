@@ -1,0 +1,22 @@
+[Eagle]
+Version="05 10 00"
+Platform="Windows"
+Serial="6E179F859C-LS-WLM-3CS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/SPB_Data/eagle/newsdc/ddc_parts.lbr"
+UsedLibrary="C:/Users/Jeff/Downloads/SparkFun.lbr"
+UsedLibrary="cccamd.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1918 291 2895 690"
+State=2
+Number=0
+
+[Desktop]
+Screen="3360 1050"
+Window="Win_1"

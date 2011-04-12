@@ -1,0 +1,11 @@
+This is the Atmega/AVR Fork of OpenBeacon. Included is new firmware, and hardware, and sample firmwares. 
+
+
+The Erlenbadger (hah!) hardware is as follows: 
+ * Atmega 328p running at 12MHz
+ * 74LS595 Shift Register
+ * Nordic nRF24L01+ ISM Band Transciever
+ * LEDs
+ * Two buttons
+
+The Atmega 328p is running USBaspLoader which means that once programmed, it can be re-programmed without an AVR Programmer. Just stick it in a usb port, and it wins. 
